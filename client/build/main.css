@@ -1,0 +1,14 @@
+body{
+  background-color: lightgrey;
+}
+
+h1{
+  background-color: grey;
+}
+
+button{
+  border-radius: 10%;
+  background-color:orange;
+  width:100px;
+  height:30px;
+}
